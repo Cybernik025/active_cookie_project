@@ -1,6 +1,4 @@
-import pytest
 from active_cookie import parse
-from test_validation import temp_file
 
 expected_output = [
         ('cookie01', '2026-02-10'),

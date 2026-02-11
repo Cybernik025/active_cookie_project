@@ -17,3 +17,7 @@ INFO:root:Processing file: cookie_log.csv for date: 2018-12-10
 WARNING:root:Invalid date format or date not in file
 INFO:root:Processing file: cookie_lohg.csv for date: 2018-12-09
 ERROR:root:File not found: cookie_lohg.csv
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-0911
+ERROR:root:File not found: cookie_log.csv
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-0911
+ERROR:root:File not found: cookie_log.csv

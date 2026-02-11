@@ -17,7 +17,7 @@ A Python command line program that processes a log file and returns the most act
 ## Setup
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/Cybernik025/active_cookie_project.git
 cd active_cookie_project
 ```
 
