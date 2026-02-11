@@ -1,0 +1,19 @@
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-09
+INFO:root:Validation successful, searching for active cookies
+INFO:root:Found 1 most active cookies for date 2018-12-09
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-09
+INFO:root:Validation successful, searching for active cookies
+INFO:root:Found 1 most active cookies for date 2018-12-09
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-10
+WARNING:root:Invalid date format or date not in file
+INFO:root:Processing file: cookie_logg.csv for date: 2018-12-09
+ERROR:root:File not found: cookie_logg.csv
+INFO:root:Processing file: cookie_logg.csv for date: 2018-12-09
+ERROR:root:File not found: cookie_logg.csv
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-09
+INFO:root:Validation successful, searching for active cookies
+INFO:root:Found 1 most active cookies for date 2018-12-09
+INFO:root:Processing file: cookie_log.csv for date: 2018-12-10
+WARNING:root:Invalid date format or date not in file
+INFO:root:Processing file: cookie_lohg.csv for date: 2018-12-09
+ERROR:root:File not found: cookie_lohg.csv

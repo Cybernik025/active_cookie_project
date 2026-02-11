@@ -1,0 +1,2 @@
+[console_scripts]
+active-cookie = active_cookie.cli:main
